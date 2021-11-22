@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 He cambiado el file 1 
+=======
+He cambiado el file 1
+Segundo cambio
+>>>>>>> 131a54781d78c74ad397fa633ac32d66b675d766
